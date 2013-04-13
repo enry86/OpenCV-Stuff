@@ -3,7 +3,7 @@ OpenCV Experiments
 
 In this repository I'm going to put some experiments and test programs developed on top of the awesome [OpenCV project] (http://opencv.willowgarage.com/wiki/).
 
-Probably I'm going to keep a subfolder for each test/experiment/whatever and I'll take care of keep each subproject self-contained and independent.
+Probably I'm going to create a subfolder for each test/experiment/whatever, and I'll take care of keeping each subproject self-contained and independent from other stuff on the repo.
 
 Caveat
 ------
